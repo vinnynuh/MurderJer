@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MurderJer
+- 👋 Hi, I’m Jer
 - 👀 I’m interested in learning to code :)
 - 🌱 I’m currently teaching myself coding
 - 📫 How to reach me jc3138727@gmail.com
